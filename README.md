@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm ALPHA ERIC</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 
-- 🌱 I’m currently learning **Reactjs,React Native**
+- 🌱I’m currently honing my skills in modern front-end technologies like **Reactjs,React Native**
 
 - 💬 Ask me about **react, tailwind, js, html,css,mySQL...**
 
 - 📫 How to reach me **owusuansaheric08@gmail.com**
+
+- I’m passionate about creating [intuitive and responsive user interfaces.](intuitive and responsive user interfaces.)
+
+- ⚡ Fun fact **Pronouns: He/Him**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
